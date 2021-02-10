@@ -1,0 +1,47 @@
+footer{
+    background-color: black;
+}
+.footer_container{
+    width: 90%;
+    margin: auto;
+}
+.footer_container .footer_item{
+    color: rgba(255, 255, 255, 0.582);
+    font-size: 1.2em;
+    font-weight: 600;
+    letter-spacing: 1px;
+    margin: 60px 0 2em 0;
+}
+.footer_container .footer_item h3:hover{
+    color: white;
+}
+.footer_container .footer_item p:hover{
+    color: white;
+}
+.footer_container .footer_item a{
+    color: rgba(255, 255, 255, 0.582);
+}
+
+.footer_container .footer_item i{
+    height: 50px;
+    width: 50px;
+    line-height: 50%;
+    font-size: 25px;
+    text-align: center;
+}
+.footer_container .footer_item i:hover{
+    color: white;
+}
+.footer_container .footer_service a{
+    color: rgba(255, 255, 255, 0.582);
+    text-decoration: underline;
+}
+.footer_container .footer_service a:hover{
+    color: white;
+}
+.footer_container .footer_icon i{
+    color: white;
+}
+.footer_container .footer_icon h4:hover{
+    color: white;
+}

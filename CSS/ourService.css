@@ -1,0 +1,23 @@
+.ourService h2{
+    font-size: 3em;
+    font-family: 'PoiretOne-Regular';
+    text-transform: capitalize;
+    color: #DA6A3C;
+    font-weight: 600;
+    margin-bottom: 50px;
+}
+.carousel-control-next-icon, .carousel-control-prev-icon{    
+    background-color: rgb(109, 104, 104);
+    height: 40px;
+    width: 20px;
+    box-shadow: 0 0 0 0  black  ;
+}
+.ourService .ourService_content .carousel-inner{
+    width: 80%;
+    margin: auto;
+}
+
+.ourService .ourService_content .carousel-item .ourService_Text p{
+    color: rgb(109, 104, 104);
+    font-size: 16px;
+}
